@@ -1,0 +1,92 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+.head{
+	text-align: center;
+	width: 100%;
+    display: block;
+
+
+}
+.Logo{
+
+background: #D2C7C7;
+width: 30%;
+float: left;
+border: 1px solid;
+height: 50px;
+}
+.Banner{
+
+	width: 70%;
+float: right;
+border: 1px solid;
+background:  #c72b50;
+height: 50px;
+}
+.Header-Bar{
+border: 1px solid;
+height: 150px;
+	text-align: center;
+	background: #EEB2A5;
+}
+.Main-content{
+	width: 100%;
+	height: 400px;
+		text-align: center;
+}
+.Left{
+	width: 20%;
+	background: #35917D;
+	float: left;
+	height: 400px;
+}
+.center{
+	width: 60%;
+	background: #BD1968;
+	float: left;
+	height: 400px;
+	
+}
+.Center-center{
+	background: #3C19BD;
+	height: 100px;
+}
+.Center-center-Middle{
+	height: 200px;
+	width: 100%;
+}
+.Center-Left{
+	background: #19BD9A;
+	width: 50%;
+	height: 200px;
+	float: left;
+}
+.Center-Right{
+background: #9DBD19;
+	width: 50%;
+	float: left;
+	height: 200px;
+}
+.Center-Bottom{
+	background: #6D2911;
+	height: 100px;
+}
+.Right{
+	width: 20%;
+	background: #A898CB;
+	float: right;
+	height: 400px;
+}
+footer{
+	margin-top: 5px;
+	border: 1px solid;
+	height: 100px;
+	text-align: center;
+	width: 100%;
+	background: #69D702;
+}
